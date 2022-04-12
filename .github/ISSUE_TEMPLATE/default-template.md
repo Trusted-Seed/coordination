@@ -1,6 +1,6 @@
 ---
 name: Default Template
-about: Describe this issue template's purpose here.
+about: Template for Trusted Seed new issues
 title: ''
 labels: ''
 assignees: ''
